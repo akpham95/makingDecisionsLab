@@ -4,9 +4,16 @@
   Check to see if 'lovesCode' is equal to true or false. 
   If it is true, console log "I love to code!"
   If it is not, console log "Coding has its challenges."
-*
-//CODE HERE
+*/
 
+//CODE HERE
+let lovesCode = true;
+
+if (lovesCode = true){
+  console.log("I love to code!")
+} else{
+  console.log("Coding has it's challenges.")
+}
 
 
 // For problems 2-3 use the following lines of code:
